@@ -1,0 +1,42 @@
+
+/*body*/
+body{
+  font:arial;
+  width:100%;
+  height:100%;
+  background:linear-gradient(#535b0b, #b2f515, #d4f321, #858e00, rgb(255, 255, 255));
+  background-size:800% 1000%;
+  /*animation: gradient 7s ease infinite;*/
+}
+/*name*/
+h1{
+  margin-top:2%;
+  text-align: center;
+  font-family: cursive;
+  /*text-decoration:underline;*/
+  font-size: 50px;
+  text-decoration-color:rgb(150, 144, 238);
+}
+/*navigation*/
+header li{
+  display: inline;
+  padding :0 20px 0 20px;
+  font-size: 20px;
+}
+header a{
+  text-decoration: none;
+  color:rgb(150, 144, 238);;
+}
+header a:hover{
+  color:black;
+}
+/*image*/
+img{
+  border-radius: 50%;
+  margin-top:8%;
+  margin-left :40%;
+}
+footer {
+  color:#rgb(164, 144, 238);
+  /*margin-left:47%;*/
+}

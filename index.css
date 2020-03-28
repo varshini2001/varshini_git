@@ -1,0 +1,36 @@
+/*body*/
+body{
+    font:arial;
+    width:100%;
+    height:100%;
+    background:linear-gradient(#0b4b5b, #15eef5, #95b7c7, #00668e, rgb(255, 255, 255));
+    background-size:800% 1000%;
+    /*animation: gradient 7s ease infinite;*/
+}
+h1{
+    margin-top:2%;
+    text-align: center;
+    font-family: cursive;
+    /*text-decoration:underline;*/
+    font-size: 50px;
+    text-decoration-color:rgb(144, 219, 238);
+}
+/*navigation*/
+header li{
+    display: inline;
+    padding :0 20px 0 20px;
+    font-size: 20px;
+}
+header a{
+    text-decoration: none;
+    color:rgb(236, 169, 208);
+}
+header a:hover{
+    color:black;
+}
+  
+  
+footer {
+    color:rgb(164, 144, 238);
+    /*margin-left:47%;*/
+}  
